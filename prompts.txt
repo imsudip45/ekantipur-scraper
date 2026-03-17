@@ -4,8 +4,6 @@ a."i am given an assignemnt help me work on that @Practical Test - Audio Bee.pdf
 
 b."we need to change our approach now first lets understand how actually is the data structured that we have to scrape"
 
-c."Implement the plan as specified, it is attached for your reference. Do NOT edit the plan file itself."
+c."we are having timeout and invalid escape sequence issue so lets study the dom of cartoon of the data more properly" + attached debugging terminal output
 
-d."we are having timeout and invalid escape sequence issue so lets study the dom of cartoon of the data more properly" + attached debugging terminal output
-
-e.we havent scraped the news paragraph content of each entertainment news i found that it has been store in paragraph tag, lets understand the dom more clearly to scrape that too
+d.we havent scraped the news paragraph content of each entertainment news i found that it has been store in paragraph tag, lets understand the dom more clearly to scrape that too
